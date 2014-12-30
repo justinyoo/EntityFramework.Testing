@@ -4,8 +4,8 @@
     <id>EntityFrameworkTesting.NSubstitute</id>
     <version>1.0.7</version>
     <title>EntityFramework.Testing.NSubstitute</title>
-    <authors>Microsoft Open Technologies, Inc; Rowan Miller; Scott Xu; Justin Yoo</authors>
-    <owners>scott xu</owners>
+    <authors>Microsoft Open Technologies, Rowan Miller, Scott Xu, Justin Yoo</authors>
+    <owners>Scott Xu</owners>
     <licenseUrl>https://github.com/scott-xu/EntityFramework.Testing/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/scott-xu/EntityFramework.Testing</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>

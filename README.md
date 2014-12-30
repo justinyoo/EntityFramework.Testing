@@ -99,7 +99,7 @@ public async Task Index_returns_blogs_ordered_by_name()
 ``` 
 
 
-## EntityFramework.Testing.NSubstitute ##
+## EntityFramework.Testing.NSubstitute [![NuGet Version](http://img.shields.io/nuget/v/EntityFrameworkTesting.NSubstitute.svg?style=flat)](https://www.nuget.org/packages/EntityFrameworkTesting.NSubstitute/) [![NuGet Downloads](http://img.shields.io/nuget/dt/EntityFrameworkTesting.NSubstitute.svg?style=flat)](https://www.nuget.org/packages/EntityFrameworkTesting.NSubstitute/)
 
 **EntityFramework.Testing.NSubstitute** provides a helpful extension method to mock EntityFramework's DbSets using [NSubstitute](http://nsubstitute.github.io/). 
 
